@@ -5,78 +5,68 @@
 
 ## Problem Statement
 
-You are given a positive integer n.
+<p>You are given a positive integer <code>n</code>.</p>
 
-Return the maximum product of any two digits in n.
+<p>Return the <strong>maximum</strong> product of any two digits in <code>n</code>.</p>
 
-Note: You may use the same digit twice if it appears more than once in n.
+<p><strong>Note:</strong> You may use the <strong>same</strong> digit twice if it appears more than once in <code>n</code>.</p>
 
- 
-Example 1:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">n = 31</span></p>
 
-Input: n = 31
+<p><strong>Output:</strong> <span class="example-io">3</span></p>
 
-Output: 3
+<p><strong>Explanation:</strong></p>
 
-Explanation:
+<ul>
+	<li>The digits of <code>n</code> are <code>[3, 1]</code>.</li>
+	<li>The possible products of any two digits are: <code>3 * 1 = 3</code>.</li>
+	<li>The maximum product is 3.</li>
+</ul>
+</div>
 
+<p><strong class="example">Example 2:</strong></p>
 
-	The digits of n are [3, 1].
-	The possible products of any two digits are: 3 * 1 = 3.
-	The maximum product is 3.
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">n = 22</span></p>
 
+<p><strong>Output:</strong> <span class="example-io">4</span></p>
 
+<p><strong>Explanation:</strong></p>
 
-Example 2:
+<ul>
+	<li>The digits of <code>n</code> are <code>[2, 2]</code>.</li>
+	<li>The possible products of any two digits are: <code>2 * 2 = 4</code>.</li>
+	<li>The maximum product is 4.</li>
+</ul>
+</div>
 
+<p><strong class="example">Example 3:</strong></p>
 
-Input: n = 22
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">n = 124</span></p>
 
-Output: 4
+<p><strong>Output:</strong> <span class="example-io">8</span></p>
 
-Explanation:
+<p><strong>Explanation:</strong></p>
 
+<ul>
+	<li>The digits of <code>n</code> are <code>[1, 2, 4]</code>.</li>
+	<li>The possible products of any two digits are: <code>1 * 2 = 2</code>, <code>1 * 4 = 4</code>, <code>2 * 4 = 8</code>.</li>
+	<li>The maximum product is 8.</li>
+</ul>
+</div>
 
-	The digits of n are [2, 2].
-	The possible products of any two digits are: 2 * 2 = 4.
-	The maximum product is 4.
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
+<ul>
+	<li><code>10 &lt;= n &lt;= 10<sup>9</sup></code></li>
+</ul>
 
-
-Example 3:
-
-
-Input: n = 124
-
-Output: 8
-
-Explanation:
-
-
-	The digits of n are [1, 2, 4].
-	The possible products of any two digits are: 1 * 2 = 2, 1 * 4 = 4, 2 * 4 = 8.
-	The maximum product is 8.
-
-
-
- 
-Constraints:
-
-
-	10 <= n <= 109
-
-## Examples
-
-```
-See problem description.
-```
-
-## Constraints
-
-- The digits of n are [3, 1].
-- The possible products of any two digits are: 3 * 1 = 3.
-- The maximum product is 3.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

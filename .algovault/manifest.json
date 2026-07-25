@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:47:11.840Z",
+  "lastUpdated": "2026-07-25T04:55:12.203Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -18,6 +18,12 @@
               "syncedAt": 1784954831840,
               "runtime": "N/A",
               "memory": "N/A",
+              "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
+            },
+            "java": {
+              "syncedAt": 1784955312203,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
             }
           }
