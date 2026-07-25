@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T05:40:34.504Z",
+  "lastUpdated": "2026-07-25T05:42:11.899Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -41,6 +41,12 @@
             "Sorting"
           ],
           "solutions": {
+            "7": {
+              "syncedAt": 1784958131899,
+              "runtime": "0 ms",
+              "memory": "44.65 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            },
             "java": {
               "syncedAt": 1784958034504,
               "runtime": "10 ms",
