@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T05:42:11.899Z",
+  "lastUpdated": "2026-07-26T17:34:50.449Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -52,6 +52,25 @@
               "runtime": "10 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "sort-array-by-parity": {
+          "questionId": "905",
+          "title": "Sort Array By Parity",
+          "titleSlug": "sort-array-by-parity",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785087290449,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Sort Array By Parity/"
             }
           }
         }
