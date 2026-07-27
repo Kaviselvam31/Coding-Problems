@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-26T17:34:50.449Z",
+  "lastUpdated": "2026-07-27T17:03:01.463Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -71,6 +71,23 @@
               "runtime": "0 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Sort Array By Parity/"
+            }
+          }
+        },
+        "three-consecutive-odds": {
+          "questionId": "1550",
+          "title": "Three Consecutive Odds",
+          "titleSlug": "three-consecutive-odds",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785171781463,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Three Consecutive Odds/"
             }
           }
         }
