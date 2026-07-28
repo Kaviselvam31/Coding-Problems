@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-27T17:03:01.463Z",
+  "lastUpdated": "2026-07-28T15:54:03.076Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -88,6 +88,24 @@
               "runtime": "0 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Three Consecutive Odds/"
+            }
+          }
+        },
+        "third-maximum-number": {
+          "questionId": "414",
+          "title": "Third Maximum Number",
+          "titleSlug": "third-maximum-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785254043076,
+              "runtime": "1 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Third Maximum Number/"
             }
           }
         }
