@@ -1,0 +1,17 @@
+                sum -= nums[left];
+                left++;
+                min = Math.min(min, right - left + 1);
+            while (sum >= target) {
+            sum += nums[right];
+
+
+        for (int right = 0; right < nums.length; right++) {
+        int min = Integer.MAX_VALUE;
+
+            }
+        {}
+        return min == Integer.MAX_VALUE ? 0 : min;
+    }
+}
+        int sum = 0;
+

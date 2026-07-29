@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-28T15:54:03.076Z",
+  "lastUpdated": "2026-07-29T16:41:41.513Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -106,6 +106,26 @@
               "runtime": "1 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Third Maximum Number/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "14151312101198671617181920521                sum -= nums[left];                left++;                min = math.min(min, right - left + 1);            while (sum >= target) {            sum += nums[right];        for (int right = 0; right < nums.length; right++) {        int min = integer.max_value;            }        {}        return min == integer.max_value ? 0 : min;    }}        int sum = 0;": {
+              "syncedAt": 1785343301512,
+              "runtime": "0 ms",
+              "memory": "69.20 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
             }
           }
         }
