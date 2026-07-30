@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-29T16:41:41.513Z",
+  "lastUpdated": "2026-07-30T16:54:52.252Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -126,6 +126,24 @@
               "runtime": "0 ms",
               "memory": "69.20 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "neither-minimum-nor-maximum": {
+          "questionId": "2733",
+          "title": "Neither Minimum nor Maximum",
+          "titleSlug": "neither-minimum-nor-maximum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785430492252,
+              "runtime": "37 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Neither Minimum nor Maximum/"
             }
           }
         }
