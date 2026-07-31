@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-30T16:54:52.252Z",
+  "lastUpdated": "2026-07-31T14:27:15.377Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -144,6 +144,27 @@
               "runtime": "37 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Neither Minimum nor Maximum/"
+            }
+          }
+        },
+        "count-pairs-of-similar-strings": {
+          "questionId": "2506",
+          "title": "Count Pairs Of Similar Strings",
+          "titleSlug": "count-pairs-of-similar-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785508035377,
+              "runtime": "47 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Count Pairs Of Similar Strings/"
             }
           }
         }
