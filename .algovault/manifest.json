@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T14:27:15.377Z",
+  "lastUpdated": "2026-08-01T16:32:48.722Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -165,6 +165,24 @@
               "runtime": "47 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Count Pairs Of Similar Strings/"
+            }
+          }
+        },
+        "concatenate-array-with-reverse": {
+          "questionId": "3925",
+          "title": "Concatenate Array With Reverse",
+          "titleSlug": "concatenate-array-with-reverse",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785601968722,
+              "runtime": "1 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Concatenate Array With Reverse/"
             }
           }
         }

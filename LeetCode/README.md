@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1785508035433" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1785601968784" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -23,6 +23,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1550 | [Three Consecutive Odds](./Array/Three%20Consecutive%20Odds/) | Easy |
 | 2506 | [Count Pairs Of Similar Strings](./Array/Count%20Pairs%20Of%20Similar%20Strings/) | Easy |
 | 2733 | [Neither Minimum nor Maximum](./Array/Neither%20Minimum%20nor%20Maximum/) | Easy |
+| 3925 | [Concatenate Array With Reverse](./Array/Concatenate%20Array%20With%20Reverse/) | Easy |
 
 </details>
 
