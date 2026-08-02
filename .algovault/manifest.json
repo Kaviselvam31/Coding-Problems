@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T16:32:48.722Z",
+  "lastUpdated": "2026-08-02T15:14:02.344Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -183,6 +183,26 @@
               "runtime": "1 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Concatenate Array With Reverse/"
+            }
+          }
+        },
+        "subarray-product-less-than-k": {
+          "questionId": "713",
+          "title": "Subarray Product Less Than K",
+          "titleSlug": "subarray-product-less-than-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785683642344,
+              "runtime": "413 ms",
+              "memory": "49.3 MB",
+              "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
             }
           }
         }
