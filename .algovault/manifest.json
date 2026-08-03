@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T13:57:06.176Z",
+  "lastUpdated": "2026-08-03T14:03:22.520Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -216,6 +216,12 @@
             "String"
           ],
           "solutions": {
+            "10": {
+              "syncedAt": 1785765802520,
+              "runtime": "0 ms",
+              "memory": "46.72 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String Prefix/"
+            },
             "java": {
               "syncedAt": 1785765426176,
               "runtime": "9 ms",

@@ -5,56 +5,66 @@
 
 ## Problem Statement
 
-<p>You are given a string <code>s</code> and an integer <code>k</code>.</p>
+You are given a string s and an integer k.
 
-<p>Reverse the first <code>k</code> characters of <code>s</code> and return the resulting string.</p>
+Reverse the first k characters of s and return the resulting string.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;abcd&quot;, k = 2</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">&quot;bacd&quot;</span></p>
+Input: s = "abcd", k = 2
 
-<p><strong>Explanation:</strong>​​​​​​​</p>
+Output: "bacd"
 
-<p>The first <code>k = 2</code> characters <code>&quot;ab&quot;</code> are reversed to <code>&quot;ba&quot;</code>. The final resulting string is <code>&quot;bacd&quot;</code>.</p>
-</div>
+Explanation:​​​​​​​
 
-<p><strong class="example">Example 2:</strong></p>
+The first k = 2 characters "ab" are reversed to "ba". The final resulting string is "bacd".
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;xyz&quot;, k = 3</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">&quot;zyx&quot;</span></p>
+Example 2:
 
-<p><strong>Explanation:</strong></p>
 
-<p>The first <code>k = 3</code> characters <code>&quot;xyz&quot;</code> are reversed to <code>&quot;zyx&quot;</code>. The final resulting string is <code>&quot;zyx&quot;</code>.</p>
-</div>
+Input: s = "xyz", k = 3
 
-<p><strong class="example">Example 3:</strong></p>
+Output: "zyx"
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;hey&quot;, k = 1</span></p>
+Explanation:
 
-<p><strong>Output:</strong> <span class="example-io">&quot;hey&quot;</span></p>
+The first k = 3 characters "xyz" are reversed to "zyx". The final resulting string is "zyx".
 
-<p><strong>Explanation:</strong></p>
 
-<p>The first <code>k = 1</code> character <code>&quot;h&quot;</code> remains unchanged on reversal. The final resulting string is <code>&quot;hey&quot;</code>.</p>
-</div>
+Example 3:
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>1 &lt;= s.length &lt;= 100</code></li>
-	<li><code>s</code> consists of lowercase English letters.</li>
-	<li><code>1 &lt;= k &lt;= s.length</code></li>
-</ul>
+Input: s = "hey", k = 1
 
+Output: "hey"
+
+Explanation:
+
+The first k = 1 character "h" remains unchanged on reversal. The final resulting string is "hey".
+
+
+ 
+Constraints:
+
+
+	1 <= s.length <= 100
+	s consists of lowercase English letters.
+	1 <= k <= s.length
+
+## Examples
+
+```
+See problem description.
+```
+
+## Constraints
+
+- 1 <= s.length <= 100
+- s consists of lowercase English letters.
+- 1 <= k <= s.length
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
