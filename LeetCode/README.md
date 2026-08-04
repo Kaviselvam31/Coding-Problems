@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1785861635445" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1785862042647" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -23,6 +23,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 1550 | [Three Consecutive Odds](./Array/Three%20Consecutive%20Odds/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
+| 2006 | [Count Number of Pairs With Absolute Difference K](./Array/Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/) | Easy |
 | 2506 | [Count Pairs Of Similar Strings](./Array/Count%20Pairs%20Of%20Similar%20Strings/) | Easy |
 | 2733 | [Neither Minimum nor Maximum](./Array/Neither%20Minimum%20nor%20Maximum/) | Easy |
 | 3925 | [Concatenate Array With Reverse](./Array/Concatenate%20Array%20With%20Reverse/) | Easy |

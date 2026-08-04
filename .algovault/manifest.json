@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T16:40:35.393Z",
+  "lastUpdated": "2026-08-04T16:47:22.593Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -245,6 +245,25 @@
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
+            }
+          }
+        },
+        "count-number-of-pairs-with-absolute-difference-k": {
+          "questionId": "2006",
+          "title": "Count Number of Pairs With Absolute Difference K",
+          "titleSlug": "count-number-of-pairs-with-absolute-difference-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785862042593,
+              "runtime": "7 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Count Number of Pairs With Absolute Difference K/"
             }
           }
         }
