@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T14:03:22.520Z",
+  "lastUpdated": "2026-08-04T16:40:35.393Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -227,6 +227,24 @@
               "runtime": "9 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String Prefix/"
+            }
+          }
+        },
+        "number-of-strings-that-appear-as-substrings-in-word": {
+          "questionId": "1967",
+          "title": "Number of Strings That Appear as Substrings in Word",
+          "titleSlug": "number-of-strings-that-appear-as-substrings-in-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785861635393,
+              "runtime": "1 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
             }
           }
         }
