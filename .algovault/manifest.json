@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T16:00:00.918Z",
+  "lastUpdated": "2026-08-05T16:18:08.344Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -281,6 +281,23 @@
               "runtime": "7 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Maximum Difference Between Increasing Elements/"
+            }
+          }
+        },
+        "smallest-index-with-equal-value": {
+          "questionId": "2057",
+          "title": "Smallest Index With Equal Value",
+          "titleSlug": "smallest-index-with-equal-value",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785946688344,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Smallest Index With Equal Value/"
             }
           }
         }
