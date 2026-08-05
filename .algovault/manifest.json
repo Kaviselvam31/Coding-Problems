@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T16:47:22.593Z",
+  "lastUpdated": "2026-08-05T16:00:00.918Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -264,6 +264,23 @@
               "runtime": "7 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Count Number of Pairs With Absolute Difference K/"
+            }
+          }
+        },
+        "maximum-difference-between-increasing-elements": {
+          "questionId": "2016",
+          "title": "Maximum Difference Between Increasing Elements",
+          "titleSlug": "maximum-difference-between-increasing-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785945600918,
+              "runtime": "7 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Difference Between Increasing Elements/"
             }
           }
         }
