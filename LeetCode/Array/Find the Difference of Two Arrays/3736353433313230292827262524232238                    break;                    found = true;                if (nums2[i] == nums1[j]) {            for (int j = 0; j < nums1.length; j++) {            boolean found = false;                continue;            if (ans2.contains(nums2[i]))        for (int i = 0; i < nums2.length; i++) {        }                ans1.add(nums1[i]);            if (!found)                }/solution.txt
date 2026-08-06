@@ -1,0 +1,17 @@
+                    break;
+                    found = true;
+                if (nums2[i] == nums1[j]) {
+            for (int j = 0; j < nums1.length; j++) {
+
+
+            boolean found = false;
+                continue;
+            if (ans2.contains(nums2[i]))
+
+        for (int i = 0; i < nums2.length; i++) {
+
+        }
+                ans1.add(nums1[i]);
+            if (!found)
+
+                }

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-05T16:40:50.057Z",
+  "lastUpdated": "2026-08-06T17:24:36.912Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -316,6 +316,24 @@
               "runtime": "31 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Separate the Digits in an Array/"
+            }
+          }
+        },
+        "find-the-difference-of-two-arrays": {
+          "questionId": "2215",
+          "title": "Find the Difference of Two Arrays",
+          "titleSlug": "find-the-difference-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "3736353433313230292827262524232238                    break;                    found = true;                if (nums2[i] == nums1[j]) {            for (int j = 0; j < nums1.length; j++) {            boolean found = false;                continue;            if (ans2.contains(nums2[i]))        for (int i = 0; i < nums2.length; i++) {        }                ans1.add(nums1[i]);            if (!found)                }": {
+              "syncedAt": 1786037076912,
+              "runtime": "0 ms",
+              "memory": "47.15 MB",
+              "githubPath": "LeetCode/Array/Find the Difference of Two Arrays/"
             }
           }
         }
