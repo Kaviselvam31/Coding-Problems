@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T17:24:36.912Z",
+  "lastUpdated": "2026-08-07T15:56:23.998Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -334,6 +334,27 @@
               "runtime": "0 ms",
               "memory": "47.15 MB",
               "githubPath": "LeetCode/Array/Find the Difference of Two Arrays/"
+            }
+          }
+        },
+        "count-the-number-of-consistent-strings": {
+          "questionId": "1684",
+          "title": "Count the Number of Consistent Strings",
+          "titleSlug": "count-the-number-of-consistent-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786118183998,
+              "runtime": "72 ms",
+              "memory": "51.8 MB",
+              "githubPath": "LeetCode/Array/Count the Number of Consistent Strings/"
             }
           }
         }
