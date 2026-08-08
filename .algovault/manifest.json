@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T17:52:28.646Z",
+  "lastUpdated": "2026-08-08T18:03:11.511Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -373,6 +373,24 @@
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Count of Matches in Tournament/"
+            }
+          }
+        },
+        "count-operations-to-obtain-zero": {
+          "questionId": "2169",
+          "title": "Count Operations to Obtain Zero",
+          "titleSlug": "count-operations-to-obtain-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786212191511,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
             }
           }
         }
