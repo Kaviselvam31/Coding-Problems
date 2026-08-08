@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T15:56:23.998Z",
+  "lastUpdated": "2026-08-08T17:52:28.646Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -355,6 +355,24 @@
               "runtime": "72 ms",
               "memory": "51.8 MB",
               "githubPath": "LeetCode/Array/Count the Number of Consistent Strings/"
+            }
+          }
+        },
+        "count-of-matches-in-tournament": {
+          "questionId": "1688",
+          "title": "Count of Matches in Tournament",
+          "titleSlug": "count-of-matches-in-tournament",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786211548646,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Count of Matches in Tournament/"
             }
           }
         }
