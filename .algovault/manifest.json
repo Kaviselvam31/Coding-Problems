@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T18:03:11.511Z",
+  "lastUpdated": "2026-08-09T16:48:58.476Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -391,6 +391,23 @@
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
+            }
+          }
+        },
+        "check-if-numbers-are-ascending-in-a-sentence": {
+          "questionId": "2042",
+          "title": "Check if Numbers Are Ascending in a Sentence",
+          "titleSlug": "check-if-numbers-are-ascending-in-a-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786294138476,
+              "runtime": "2 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Check if Numbers Are Ascending in a Sentence/"
             }
           }
         }
