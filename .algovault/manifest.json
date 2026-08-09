@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-09T16:48:58.476Z",
+  "lastUpdated": "2026-08-09T16:49:01.229Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -403,10 +403,10 @@
             "String"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1786294138476,
-              "runtime": "2 ms",
-              "memory": "43.2 MB",
+            "4": {
+              "syncedAt": 1786294141229,
+              "runtime": "0 ms",
+              "memory": "43.18 MB",
               "githubPath": "LeetCode/String/Check if Numbers Are Ascending in a Sentence/"
             }
           }

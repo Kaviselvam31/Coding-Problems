@@ -5,55 +5,71 @@
 
 ## Problem Statement
 
-<p>A sentence is a list of <strong>tokens</strong> separated by a <strong>single</strong> space with no leading or trailing spaces. Every token is either a <strong>positive number</strong> consisting of digits <code>0-9</code> with no leading zeros, or a <strong>word</strong> consisting of lowercase English letters.</p>
+A sentence is a list of tokens separated by a single space with no leading or trailing spaces. Every token is either a positive number consisting of digits 0-9 with no leading zeros, or a word consisting of lowercase English letters.
 
-<ul>
-	<li>For example, <code>&quot;a puppy has 2 eyes 4 legs&quot;</code> is a sentence with seven tokens: <code>&quot;2&quot;</code> and <code>&quot;4&quot;</code> are numbers and the other tokens such as <code>&quot;puppy&quot;</code> are words.</li>
-</ul>
 
-<p>Given a string <code>s</code> representing a sentence, you need to check if <strong>all</strong> the numbers in <code>s</code> are <strong>strictly increasing</strong> from left to right (i.e., other than the last number, <strong>each</strong> number is <strong>strictly smaller</strong> than the number on its <strong>right</strong> in <code>s</code>).</p>
+	For example, "a puppy has 2 eyes 4 legs" is a sentence with seven tokens: "2" and "4" are numbers and the other tokens such as "puppy" are words.
 
-<p>Return <code>true</code><em> if so, or </em><code>false</code><em> otherwise</em>.</p>
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-<img alt="example-1" src="https://assets.leetcode.com/uploads/2021/09/30/example1.png" style="width: 637px; height: 48px;" />
-<pre>
-<strong>Input:</strong> s = &quot;1 box has 3 blue 4 red 6 green and 12 yellow marbles&quot;
-<strong>Output:</strong> true
-<strong>Explanation:</strong> The numbers in s are: 1, 3, 4, 6, 12.
-They are strictly increasing from left to right: 1 &lt; 3 &lt; 4 &lt; 6 &lt; 12.
-</pre>
+Given a string s representing a sentence, you need to check if all the numbers in s are strictly increasing from left to right (i.e., other than the last number, each number is strictly smaller than the number on its right in s).
 
-<p><strong class="example">Example 2:</strong></p>
+Return true if so, or false otherwise.
 
-<pre>
-<strong>Input:</strong> s = &quot;hello world 5 x 5&quot;
-<strong>Output:</strong> false
-<strong>Explanation:</strong> The numbers in s are: <u><strong>5</strong></u>, <strong><u>5</u></strong>. They are not strictly increasing.
-</pre>
+ 
+Example 1:
 
-<p><strong class="example">Example 3:</strong></p>
-<img alt="example-3" src="https://assets.leetcode.com/uploads/2021/09/30/example3.png" style="width: 794px; height: 48px;" />
-<pre>
-<strong>Input:</strong> s = &quot;sunset is at 7 51 pm overnight lows will be in the low 50 and 60 s&quot;
-<strong>Output:</strong> false
-<strong>Explanation:</strong> The numbers in s are: 7, <u><strong>51</strong></u>, <u><strong>50</strong></u>, 60. They are not strictly increasing.
-</pre>
+Input: s = "1 box has 3 blue 4 red 6 green and 12 yellow marbles"
+Output: true
+Explanation: The numbers in s are: 1, 3, 4, 6, 12.
+They are strictly increasing from left to right: 1 < 3 < 4 < 6 < 12.
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>3 &lt;= s.length &lt;= 200</code></li>
-	<li><code>s</code> consists of lowercase English letters, spaces, and digits from <code>0</code> to <code>9</code>, inclusive.</li>
-	<li>The number of tokens in <code>s</code> is between <code>2</code> and <code>100</code>, inclusive.</li>
-	<li>The tokens in <code>s</code> are separated by a single space.</li>
-	<li>There are at least <strong>two</strong> numbers in <code>s</code>.</li>
-	<li>Each number in <code>s</code> is a <strong>positive</strong> number <strong>less</strong> than <code>100</code>, with no leading zeros.</li>
-	<li><code>s</code> contains no leading or trailing spaces.</li>
-</ul>
+Example 2:
 
+Input: s = "hello world 5 x 5"
+Output: false
+Explanation: The numbers in s are: 5, 5. They are not strictly increasing.
+
+
+Example 3:
+
+Input: s = "sunset is at 7 51 pm overnight lows will be in the low 50 and 60 s"
+Output: false
+Explanation: The numbers in s are: 7, 51, 50, 60. They are not strictly increasing.
+
+
+ 
+Constraints:
+
+
+	3 <= s.length <= 200
+	s consists of lowercase English letters, spaces, and digits from 0 to 9, inclusive.
+	The number of tokens in s is between 2 and 100, inclusive.
+	The tokens in s are separated by a single space.
+	There are at least two numbers in s.
+	Each number in s is a positive number less than 100, with no leading zeros.
+	s contains no leading or trailing spaces.
+
+## Examples
+
+```
+Input: s = "1 box has 3 blue 4 red 6 green and 12 yellow marbles"
+Output: true
+Explanation: The numbers in s are: 1, 3, 4, 6, 12.
+They are strictly increasing from left to right: 1 < 3 < 4 < 6 < 12.
+
+Input: s = "hello world 5 x 5"
+Output: false
+Explanation: The numbers in s are: 5, 5. They are not strictly increasing.
+
+Input: s = "sunset is at 7 51 pm overnight lows will be in the low 50 and 60 s"
+Output: false
+Explanation: The numbers in s are: 7, 51, 50, 60. They are not strictly increasing.
+```
+
+## Constraints
+
+- For example, "a puppy has 2 eyes 4 legs" is a sentence with seven tokens: "2" and "4" are numbers and the other tokens such as "puppy" are words.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
