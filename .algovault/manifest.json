@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-09T16:49:01.229Z",
+  "lastUpdated": "2026-08-09T17:01:07.220Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -408,6 +408,23 @@
               "runtime": "0 ms",
               "memory": "43.18 MB",
               "githubPath": "LeetCode/String/Check if Numbers Are Ascending in a Sentence/"
+            }
+          }
+        },
+        "largest-3-same-digit-number-in-string": {
+          "questionId": "2264",
+          "title": "Largest 3-Same-Digit Number in String",
+          "titleSlug": "largest-3-same-digit-number-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786294867220,
+              "runtime": "51 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/String/Largest 3-Same-Digit Number in String/"
             }
           }
         }
