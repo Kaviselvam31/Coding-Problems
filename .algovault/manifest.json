@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-09T17:01:07.220Z",
+  "lastUpdated": "2026-08-10T13:25:01.628Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -425,6 +425,25 @@
               "runtime": "51 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/String/Largest 3-Same-Digit Number in String/"
+            }
+          }
+        },
+        "reverse-prefix-of-word": {
+          "questionId": "2000",
+          "title": "Reverse Prefix of Word",
+          "titleSlug": "reverse-prefix-of-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786368301628,
+              "runtime": "7 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
             }
           }
         }
