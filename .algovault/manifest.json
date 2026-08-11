@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T13:25:01.628Z",
+  "lastUpdated": "2026-08-11T16:31:23.284Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -444,6 +444,24 @@
               "runtime": "7 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
+            }
+          }
+        },
+        "truncate-sentence": {
+          "questionId": "1816",
+          "title": "Truncate Sentence",
+          "titleSlug": "truncate-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786465883284,
+              "runtime": "4 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Truncate Sentence/"
             }
           }
         }
