@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T13:13:25.938Z",
+  "lastUpdated": "2026-08-13T17:41:11.616Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -481,6 +481,25 @@
               "runtime": "1306 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Two Pointers/Palindromic Substrings/"
+            }
+          }
+        },
+        "maximum-count-of-positive-integer-and-negative-integer": {
+          "questionId": "2529",
+          "title": "Maximum Count of Positive Integer and Negative Integer",
+          "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786642871616,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Maximum Count of Positive Integer and Negative Integer/"
             }
           }
         }

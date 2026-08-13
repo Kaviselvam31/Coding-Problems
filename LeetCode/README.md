@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1786540405991" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1786642871672" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -30,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2057 | [Smallest Index With Equal Value](./Array/Smallest%20Index%20With%20Equal%20Value/) | Easy |
 | 2215 | [Find the Difference of Two Arrays](./Array/Find%20the%20Difference%20of%20Two%20Arrays/) | Easy |
 | 2506 | [Count Pairs Of Similar Strings](./Array/Count%20Pairs%20Of%20Similar%20Strings/) | Easy |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 2553 | [Separate the Digits in an Array](./Array/Separate%20the%20Digits%20in%20an%20Array/) | Easy |
 | 2733 | [Neither Minimum nor Maximum](./Array/Neither%20Minimum%20nor%20Maximum/) | Easy |
 | 3925 | [Concatenate Array With Reverse](./Array/Concatenate%20Array%20With%20Reverse/) | Easy |
