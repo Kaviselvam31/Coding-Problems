@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T17:41:11.616Z",
+  "lastUpdated": "2026-08-14T15:57:26.123Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -500,6 +500,24 @@
               "runtime": "1 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Maximum Count of Positive Integer and Negative Integer/"
+            }
+          }
+        },
+        "count-integers-with-even-digit-sum": {
+          "questionId": "2180",
+          "title": "Count Integers With Even Digit Sum",
+          "titleSlug": "count-integers-with-even-digit-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786723046123,
+              "runtime": "2 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Count Integers With Even Digit Sum/"
             }
           }
         }
