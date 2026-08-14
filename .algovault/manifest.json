@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-14T15:58:50.265Z",
+  "lastUpdated": "2026-08-14T16:00:52.253Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -535,6 +535,24 @@
               "runtime": "0 ms",
               "memory": "43.21 MB",
               "githubPath": "LeetCode/General/Find the Highest Altitude/"
+            }
+          }
+        },
+        "find-the-highest-altitude": {
+          "questionId": "1732",
+          "title": "Find the Highest Altitude",
+          "titleSlug": "find-the-highest-altitude",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786723252253,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Find the Highest Altitude/"
             }
           }
         }
