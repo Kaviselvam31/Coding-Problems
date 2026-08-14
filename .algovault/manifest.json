@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-14T15:57:26.123Z",
+  "lastUpdated": "2026-08-14T15:58:50.265Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -518,6 +518,23 @@
               "runtime": "2 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Count Integers With Even Digit Sum/"
+            }
+          }
+        },
+        "unknown-problem": {
+          "questionId": "",
+          "title": "Find the Highest Altitude",
+          "titleSlug": "unknown-problem",
+          "difficulty": "Medium",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786723130265,
+              "runtime": "0 ms",
+              "memory": "43.21 MB",
+              "githubPath": "LeetCode/General/Find the Highest Altitude/"
             }
           }
         }
