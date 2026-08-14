@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-14T16:00:52.253Z",
+  "lastUpdated": "2026-08-14T16:01:31.575Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -538,10 +538,10 @@
             }
           }
         },
-        "find-the-highest-altitude": {
-          "questionId": "1732",
-          "title": "Find the Highest Altitude",
-          "titleSlug": "find-the-highest-altitude",
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
           "difficulty": "Easy",
           "tags": [
             "Array",
@@ -549,10 +549,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786723252253,
+              "syncedAt": 1786723291575,
               "runtime": "0 ms",
-              "memory": "43.2 MB",
-              "githubPath": "LeetCode/Array/Find the Highest Altitude/"
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
             }
           }
         }

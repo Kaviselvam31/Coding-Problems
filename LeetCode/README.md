@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1786723252311" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1786723291576" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,9 +21,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
+| 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1550 | [Three Consecutive Odds](./Array/Three%20Consecutive%20Odds/) | Easy |
 | 1684 | [Count the Number of Consistent Strings](./Array/Count%20the%20Number%20of%20Consistent%20Strings/) | Easy |
-| 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
 | 1816 | [Truncate Sentence](./Array/Truncate%20Sentence/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2006 | [Count Number of Pairs With Absolute Difference K](./Array/Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/) | Easy |
