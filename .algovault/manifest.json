@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-15T06:53:37.122Z",
+  "lastUpdated": "2026-08-15T17:06:02.839Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -571,6 +571,25 @@
               "runtime": "31 ms",
               "memory": "48.5 MB",
               "githubPath": "LeetCode/Array/Distribute Candies/"
+            }
+          }
+        },
+        "final-prices-with-a-special-discount-in-a-shop": {
+          "questionId": "1475",
+          "title": "Final Prices With a Special Discount in a Shop",
+          "titleSlug": "final-prices-with-a-special-discount-in-a-shop",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786813562839,
+              "runtime": "2 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Final Prices With a Special Discount in a Shop/"
             }
           }
         }
