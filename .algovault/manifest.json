@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-15T17:06:02.839Z",
+  "lastUpdated": "2026-08-16T17:18:18.074Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -102,9 +102,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785254043076,
+              "syncedAt": 1786900698074,
               "runtime": "1 ms",
-              "memory": "44.9 MB",
+              "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Third Maximum Number/"
             }
           }
