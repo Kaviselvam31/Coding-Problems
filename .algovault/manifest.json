@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-16T17:18:18.074Z",
+  "lastUpdated": "2026-08-17T09:56:50.528Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -590,6 +590,25 @@
               "runtime": "2 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Final Prices With a Special Discount in a Shop/"
+            }
+          }
+        },
+        "find-first-palindromic-string-in-the-array": {
+          "questionId": "2108",
+          "title": "Find First Palindromic String in the Array",
+          "titleSlug": "find-first-palindromic-string-in-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786960610528,
+              "runtime": "4 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Find First Palindromic String in the Array/"
             }
           }
         }
