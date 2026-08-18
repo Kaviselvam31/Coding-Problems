@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T09:56:50.528Z",
+  "lastUpdated": "2026-08-18T08:23:35.968Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -609,6 +609,23 @@
               "runtime": "4 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Find First Palindromic String in the Array/"
+            }
+          }
+        },
+        "replace-elements-with-greatest-element-on-right-side": {
+          "questionId": "1299",
+          "title": "Replace Elements with Greatest Element on Right Side",
+          "titleSlug": "replace-elements-with-greatest-element-on-right-side",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787041415968,
+              "runtime": "1387 ms",
+              "memory": "49 MB",
+              "githubPath": "LeetCode/Array/Replace Elements with Greatest Element on Right Side/"
             }
           }
         }
