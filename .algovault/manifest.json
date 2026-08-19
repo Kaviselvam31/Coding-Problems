@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T08:23:35.968Z",
+  "lastUpdated": "2026-08-19T09:17:47.989Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -626,6 +626,25 @@
               "runtime": "1387 ms",
               "memory": "49 MB",
               "githubPath": "LeetCode/Array/Replace Elements with Greatest Element on Right Side/"
+            }
+          }
+        },
+        "maximum-points-you-can-obtain-from-cards": {
+          "questionId": "1423",
+          "title": "Maximum Points You Can Obtain from Cards",
+          "titleSlug": "maximum-points-you-can-obtain-from-cards",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787131067989,
+              "runtime": "2 ms",
+              "memory": "61.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
             }
           }
         }
