@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T09:17:47.989Z",
+  "lastUpdated": "2026-08-19T10:11:38.054Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -645,6 +645,25 @@
               "runtime": "2 ms",
               "memory": "61.4 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
+            }
+          }
+        },
+        "longest-repeating-character-replacement": {
+          "questionId": "424",
+          "title": "Longest Repeating Character Replacement",
+          "titleSlug": "longest-repeating-character-replacement",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "45678910111213141516171819202122        int k1=0;         for(int i=0;i<s.length();i++){            string sub=s.substring(k1,i+1);            string arr[]=sub.split(\"\");            map<string,integer> map=new hashmap<>();           for(string j:arr){            map.put(j,map.getordefault(j,0)+1);           }           int max=0;           for(map.entry<string,integer> entry : map.entryset()){             if(entry.getvalue()>max){                max=entry.getvalue();             }           }           int out=sub.length()-max;           if(out<=k){        maxvalue=math.max(maxvalue,sub.length());           }           else{": {
+              "syncedAt": 1787134298054,
+              "runtime": "0 ms",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
             }
           }
         }

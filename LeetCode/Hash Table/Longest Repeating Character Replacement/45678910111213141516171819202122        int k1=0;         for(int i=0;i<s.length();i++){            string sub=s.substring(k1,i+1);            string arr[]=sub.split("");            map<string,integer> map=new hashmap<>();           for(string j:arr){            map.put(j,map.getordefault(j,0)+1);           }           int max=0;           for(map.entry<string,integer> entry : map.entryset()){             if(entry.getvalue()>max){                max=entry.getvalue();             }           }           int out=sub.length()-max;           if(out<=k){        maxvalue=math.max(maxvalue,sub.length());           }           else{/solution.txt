@@ -1,0 +1,19 @@
+        int k1=0;
+         for(int i=0;i<s.length();i++){
+            String sub=s.substring(k1,i+1);
+            String arr[]=sub.split("");
+            Map<String,Integer> map=new HashMap<>();
+           for(String j:arr){
+            map.put(j,map.getOrDefault(j,0)+1);
+           }
+           int max=0;
+           for(Map.Entry<String,Integer> entry : map.entrySet()){
+             if(entry.getValue()>max){
+                max=entry.getValue();
+             }
+           }
+           int out=sub.length()-max;
+           if(out<=k){
+        maxvalue=Math.max(maxvalue,sub.length());
+           }
+           else{
