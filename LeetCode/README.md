@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1787238446874" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1787240004390" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -87,6 +87,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1704 | [Determine if String Halves Are Alike](./String/Determine%20if%20String%20Halves%20Are%20Alike/) | Easy |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](./String/Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/) | Easy |
 | 2264 | [Largest 3-Same-Digit Number in String](./String/Largest%203-Same-Digit%20Number%20in%20String/) | Easy |
 

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T15:07:26.816Z",
+  "lastUpdated": "2026-08-20T15:33:24.339Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -689,6 +689,24 @@
               "runtime": "5 ms",
               "memory": "76.97 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "determine-if-string-halves-are-alike": {
+          "questionId": "1704",
+          "title": "Determine if String Halves Are Alike",
+          "titleSlug": "determine-if-string-halves-are-alike",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787240004339,
+              "runtime": "75 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/String/Determine if String Halves Are Alike/"
             }
           }
         }
