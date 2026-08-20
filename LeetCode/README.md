@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1787134298105" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1787238233459" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,6 +16,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Easy |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
