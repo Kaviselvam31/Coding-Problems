@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T15:33:24.339Z",
+  "lastUpdated": "2026-08-21T09:00:05.221Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -707,6 +707,25 @@
               "runtime": "75 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/String/Determine if String Halves Are Alike/"
+            }
+          }
+        },
+        "sorting-the-sentence": {
+          "questionId": "1859",
+          "title": "Sorting the Sentence",
+          "titleSlug": "sorting-the-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Sorting",
+            "Bubble Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787302805221,
+              "runtime": "8 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Sorting the Sentence/"
             }
           }
         }
