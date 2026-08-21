@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T09:00:05.221Z",
+  "lastUpdated": "2026-08-21T09:01:23.993Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -721,6 +721,12 @@
             "Bubble Sort"
           ],
           "solutions": {
+            "6": {
+              "syncedAt": 1787302883992,
+              "runtime": "2 ms",
+              "memory": "N/A",
+              "githubPath": "LeetCode/String/Sorting the Sentence/"
+            },
             "java": {
               "syncedAt": 1787302805221,
               "runtime": "8 ms",
