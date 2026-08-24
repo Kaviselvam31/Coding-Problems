@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T16:34:36.823Z",
+  "lastUpdated": "2026-08-24T17:01:42.868Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -768,6 +768,24 @@
               "runtime": "2 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Count Negative Numbers in a Sorted Matrix/"
+            }
+          }
+        },
+        "count-good-triplets": {
+          "questionId": "1534",
+          "title": "Count Good Triplets",
+          "titleSlug": "count-good-triplets",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787590902868,
+              "runtime": "20 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Count Good Triplets/"
             }
           }
         }
