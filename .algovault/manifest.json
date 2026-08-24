@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-22T13:19:46.933Z",
+  "lastUpdated": "2026-08-24T16:34:36.823Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -749,6 +749,25 @@
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "count-negative-numbers-in-a-sorted-matrix": {
+          "questionId": "1351",
+          "title": "Count Negative Numbers in a Sorted Matrix",
+          "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787589276822,
+              "runtime": "2 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Count Negative Numbers in a Sorted Matrix/"
             }
           }
         }
