@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T17:01:42.868Z",
+  "lastUpdated": "2026-08-25T10:19:41.597Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -786,6 +786,23 @@
               "runtime": "20 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Count Good Triplets/"
+            }
+          }
+        },
+        "number-of-changing-keys": {
+          "questionId": "3019",
+          "title": "Number of Changing Keys",
+          "titleSlug": "number-of-changing-keys",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787653181597,
+              "runtime": "2 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/String/Number of Changing Keys/"
             }
           }
         }
