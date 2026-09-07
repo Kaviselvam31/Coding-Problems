@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-07T15:21:36.134Z",
+  "lastUpdated": "2026-09-07T15:21:56.552Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -531,10 +531,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1788794496134,
-              "runtime": "5 ms",
-              "memory": "42.96 MB",
-              "githubPath": "LeetCode/General/Valid Parentheses/"
+              "syncedAt": 1786723130265,
+              "runtime": "0 ms",
+              "memory": "43.21 MB",
+              "githubPath": "LeetCode/General/Find the Highest Altitude/"
             }
           }
         },
@@ -803,6 +803,25 @@
               "runtime": "2 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/String/Number of Changing Keys/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "12345678910111213141516171819202122class solution {    public boolean isvalid(string s1) {    stack <character> s=new stack<>();   for(int i=0;i<s1.length();i++){      char ch =s1.charat(i);      if(ch=='(' || ch=='{'|| ch=='['){        s.push(ch);      }      else if(ch ==')' || ch=='}'|| ch==']'){        if(s.isempty()){            return false;        }        char t=s.pop();        if((ch==')' && t!='(')||          (ch=='}' && t!='{') ||         (ch==']' && t!='[')) return false;      }   }return s.isempty();": {
+              "syncedAt": 1788794516552,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
             }
           }
         }

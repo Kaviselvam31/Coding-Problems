@@ -1,0 +1,22 @@
+class Solution {
+    public boolean isValid(String s1) {
+    Stack <Character> s=new Stack<>();
+   for(int i=0;i<s1.length();i++){
+      char ch =s1.charAt(i);
+      if(ch=='(' || ch=='{'|| ch=='['){
+        s.push(ch);
+      }
+      else if(ch ==')' || ch=='}'|| ch==']'){
+
+        if(s.isEmpty()){
+            return false;
+        }
+        char t=s.pop();
+        if((ch==')' && t!='(')||
+          (ch=='}' && t!='{') ||
+         (ch==']' && t!='[')) return false;
+      }
+   }
+
+return s.isEmpty();
+
