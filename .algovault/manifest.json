@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-07T15:21:56.552Z",
+  "lastUpdated": "2026-09-08T13:46:05.405Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -822,6 +822,25 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "check-if-all-characters-have-equal-number-of-occurrences": {
+          "questionId": "1941",
+          "title": "Check if All Characters Have Equal Number of Occurrences",
+          "titleSlug": "check-if-all-characters-have-equal-number-of-occurrences",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788875165405,
+              "runtime": "23 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Hash Table/Check if All Characters Have Equal Number of Occurrences/"
             }
           }
         }
