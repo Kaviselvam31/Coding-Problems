@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-08T13:46:05.405Z",
+  "lastUpdated": "2026-09-08T13:49:16.101Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -836,6 +836,12 @@
             "Counting"
           ],
           "solutions": {
+            "4": {
+              "syncedAt": 1788875356101,
+              "runtime": "0 ms",
+              "memory": "46.41 MB",
+              "githubPath": "LeetCode/Hash Table/Check if All Characters Have Equal Number of Occurrences/"
+            },
             "java": {
               "syncedAt": 1788875165405,
               "runtime": "23 ms",
