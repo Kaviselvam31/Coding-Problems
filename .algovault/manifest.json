@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-09T15:18:09.718Z",
+  "lastUpdated": "2026-09-09T15:20:25.135Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -863,6 +863,12 @@
               "syncedAt": 1788967089718,
               "runtime": "0 ms",
               "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Harshad Number/"
+            },
+            "12345678910111213class solution {    public int sumofthedigitsofharshadnumber(int x) {        int sum=0;int x1=x;        while(x1!=0){            int rem=x1%10;            sum+=rem;            x1/=10;        }        if(x%sum==0){            return sum;        }       return -1;": {
+              "syncedAt": 1788967225135,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Math/Harshad Number/"
             }
           }

@@ -5,40 +5,48 @@
 
 ## Problem Statement
 
-<p>An integer divisible by the <strong>sum</strong> of its digits is said to be a <strong>Harshad</strong> number. You are given an integer <code>x</code>. Return<em> the sum of the digits </em>of<em> </em><code>x</code><em> </em>if<em> </em><code>x</code><em> </em>is a <strong>Harshad</strong> number, otherwise, return<em> </em><code>-1</code><em>.</em></p>
+An integer divisible by the sum of its digits is said to be a Harshad number. You are given an integer x. Return the sum of the digits of x if x is a Harshad number, otherwise, return -1.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">x = 18</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">9</span></p>
+Input: x = 18
 
-<p><strong>Explanation:</strong></p>
+Output: 9
 
-<p>The sum of digits of <code>x</code> is <code>9</code>. <code>18</code> is divisible by <code>9</code>. So <code>18</code> is a Harshad number and the answer is <code>9</code>.</p>
-</div>
+Explanation:
 
-<p><strong class="example">Example 2:</strong></p>
+The sum of digits of x is 9. 18 is divisible by 9. So 18 is a Harshad number and the answer is 9.
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">x = 23</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">-1</span></p>
+Example 2:
 
-<p><strong>Explanation:</strong></p>
 
-<p>The sum of digits of <code>x</code> is <code>5</code>. <code>23</code> is not divisible by <code>5</code>. So <code>23</code> is not a Harshad number and the answer is <code>-1</code>.</p>
-</div>
+Input: x = 23
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Output: -1
 
-<ul>
-	<li><code>1 &lt;= x &lt;= 100</code></li>
-</ul>
+Explanation:
 
+The sum of digits of x is 5. 23 is not divisible by 5. So 23 is not a Harshad number and the answer is -1.
+
+
+ 
+Constraints:
+
+
+	1 <= x <= 100
+
+## Examples
+
+```
+See problem description.
+```
+
+## Constraints
+
+- 1 <= x <= 100
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
