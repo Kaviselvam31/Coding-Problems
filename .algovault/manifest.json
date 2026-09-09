@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-08T13:49:16.101Z",
+  "lastUpdated": "2026-09-09T15:18:09.718Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -847,6 +847,23 @@
               "runtime": "23 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Hash Table/Check if All Characters Have Equal Number of Occurrences/"
+            }
+          }
+        },
+        "harshad-number": {
+          "questionId": "3099",
+          "title": "Harshad Number",
+          "titleSlug": "harshad-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788967089718,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Harshad Number/"
             }
           }
         }
