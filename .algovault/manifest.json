@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-10T12:59:38.001Z",
+  "lastUpdated": "2026-09-10T13:09:11.387Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -870,6 +870,25 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Math/Harshad Number/"
+            }
+          }
+        },
+        "squares-of-a-sorted-array": {
+          "questionId": "977",
+          "title": "Squares of a Sorted Array",
+          "titleSlug": "squares-of-a-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789045751387,
+              "runtime": "10 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Squares of a Sorted Array/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1789045178057" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1789045751449" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -23,6 +23,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 575 | [Distribute Candies](./Array/Distribute%20Candies/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
+| 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
 | 1299 | [Replace Elements with Greatest Element on Right Side](./Array/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
