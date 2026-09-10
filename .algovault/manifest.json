@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-09T15:20:25.135Z",
+  "lastUpdated": "2026-09-10T12:59:38.001Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -67,9 +67,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785087290449,
-              "runtime": "0 ms",
-              "memory": "46.8 MB",
+              "syncedAt": 1789045178001,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Sort Array By Parity/"
             }
           }
