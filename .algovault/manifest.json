@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-10T13:09:11.387Z",
+  "lastUpdated": "2026-09-11T18:02:22.507Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -889,6 +889,25 @@
               "runtime": "10 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Squares of a Sorted Array/"
+            }
+          }
+        },
+        "find-the-k-beauty-of-a-number": {
+          "questionId": "2269",
+          "title": "Find the K-Beauty of a Number",
+          "titleSlug": "find-the-k-beauty-of-a-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789149742507,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Math/Find the K-Beauty of a Number/"
             }
           }
         }
