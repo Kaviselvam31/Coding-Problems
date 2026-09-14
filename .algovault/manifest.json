@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-13T03:26:49.928Z",
+  "lastUpdated": "2026-09-14T05:35:07.961Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -926,6 +926,24 @@
               "runtime": "3 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Only Letters/"
+            }
+          }
+        },
+        "number-of-1-bits": {
+          "questionId": "191",
+          "title": "Number of 1 Bits",
+          "titleSlug": "number-of-1-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789364107961,
+              "runtime": "7 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
             }
           }
         }
