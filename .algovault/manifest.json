@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-14T05:35:07.961Z",
+  "lastUpdated": "2026-09-15T06:38:04.550Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -944,6 +944,24 @@
               "runtime": "7 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789454284550,
+              "runtime": "0 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
             }
           }
         }

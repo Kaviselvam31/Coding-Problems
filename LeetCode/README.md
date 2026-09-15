@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1789364108018" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/kaviselvam31?theme=tokyonight&show=graph,recent&v=1789454284602" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -32,6 +32,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1534 | [Count Good Triplets](./Array/Count%20Good%20Triplets/) | Easy |
 | 1550 | [Three Consecutive Odds](./Array/Three%20Consecutive%20Odds/) | Easy |
+| 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1684 | [Count the Number of Consistent Strings](./Array/Count%20the%20Number%20of%20Consistent%20Strings/) | Easy |
 | 1816 | [Truncate Sentence](./Array/Truncate%20Sentence/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
