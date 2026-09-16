@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-15T06:38:04.550Z",
+  "lastUpdated": "2026-09-16T15:58:31.014Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -962,6 +962,25 @@
               "runtime": "0 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "rotate-array": {
+          "questionId": "189",
+          "title": "Rotate Array",
+          "titleSlug": "rotate-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789574311014,
+              "runtime": "5 ms",
+              "memory": "273.1 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
             }
           }
         }
