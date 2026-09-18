@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-16T15:58:31.014Z",
+  "lastUpdated": "2026-09-18T15:36:04.716Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -981,6 +981,25 @@
               "runtime": "5 ms",
               "memory": "273.1 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
+            }
+          }
+        },
+        "bitwise-or-of-even-numbers-in-an-array": {
+          "questionId": "3688",
+          "title": "Bitwise OR of Even Numbers in an Array",
+          "titleSlug": "bitwise-or-of-even-numbers-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789745764716,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Bitwise OR of Even Numbers in an Array/"
             }
           }
         }
